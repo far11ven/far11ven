@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 💬 I’m writing blogs on https://kushalbhalaik.xyz/
+- 📫 You can reach out to me on https://kushalbhalaik.xyz/contact-me/
 
 <!--
 **far11ven/far11ven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
